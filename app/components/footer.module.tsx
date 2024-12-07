@@ -7,7 +7,7 @@ const Footer = () => {
                 <hr/>
                 <div className="flex justify-between flex-wrap gap-12 p-5"> {/* footer for catagory of items */}
                 <div className="">
-                    <p className="font-bold"> Women's Fashion</p>
+                    <p className="font-bold"> Womens Fashion</p>
                     <a href="#">Women Clothing</a><br/>
                     <a href="#">Plus Size Clothing</a><br/>
                     <a href="#">Maternity Clothing</a><br/>
@@ -15,7 +15,7 @@ const Footer = () => {
                     <a href="#">Beauty</a><br/>
                 </div> 
                 <div className="">
-                    <p className="font-bold"> Women's Fashion</p><br/>
+                    <p className="font-bold"> Womens Fashion</p><br/>
                     <a href="#">Women Clothing</a><br/>
                     <a href="#">Plus Size Clothing</a><br/>
                     <a href="#">Maternity Clothing</a><br/>
@@ -23,7 +23,7 @@ const Footer = () => {
                     <a href="#">Beauty</a><br/>
                 </div> 
                 <div className="">
-                    <p className="font-bold"> Women's Fashion</p><br/>
+                    <p className="font-bold"> Womens Fashion</p><br/>
                     <a href="#">Women Clothing</a><br/>
                     <a href="#">Plus Size Clothing</a><br/>
                     <a href="#">Maternity Clothing</a><br/>
@@ -32,7 +32,7 @@ const Footer = () => {
                     <a href="#">Bags & Luggage</a><br/>
                 </div> 
                 <div className="">
-                    <p className="font-bold"> Women's Fashion</p><br/>
+                    <p className="font-bold"> Womens Fashion</p><br/>
                     <a href="#">Women Clothing</a><br/>
                     <a href="#">Plus Size Clothing</a><br/>
                     <a href="#">Maternity Clothing</a><br/>

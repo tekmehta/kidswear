@@ -9,7 +9,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid1.avif" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -24,7 +24,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid2.avif" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -39,7 +39,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid3.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -54,7 +54,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid4.avif" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -69,7 +69,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid5.avif" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -84,7 +84,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid6.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -99,7 +99,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid7.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -114,7 +114,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid8.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -129,7 +129,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid9.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -144,7 +144,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid10.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -159,7 +159,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid11.avif" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>
@@ -174,7 +174,7 @@ const ClothList=()=>{
             <div className="individualitems">
               <Link href="allitem/individualitemdetail">
               <img src="/pic/kid12.jpg" alt="img not found"/>
-              <p className="font-bold"> Women's Fashion one piece</p>
+              <p className="font-bold"> Womens Fashion one piece</p>
               <p className="titledescription"> available in all size, for ladies</p>
               <span>Rs-300 </span><span className="discountPrice"> 500</span><span> 30% off</span><br/>
               <span className="itemtype">Hot Deal</span>

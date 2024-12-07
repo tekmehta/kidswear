@@ -7,7 +7,7 @@ const Individualitems = () => {
         <>
             <Carousel/>
             <div className=" pl-[30px] pr-[30px]">
-                <h2 className="flex justify-center text-3xl font-bold">Women's Fashion One Piece</h2>
+                <h2 className="flex justify-center text-3xl font-bold">Womens Fashion One Piece</h2>
                 <div className="flex  justify-between pl-[0px] pr-[0px]"> {/* Rate */}
                     <span>Rating</span>
                     <span className="text-green-700 flex ">
